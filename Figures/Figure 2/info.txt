@@ -1,0 +1,8 @@
+For Figure 2: 
+
+Panels A and B require the four temperature log .txt files
+
+Panel C and D require the two .csv files
+
+Plots were cleaned up and symbols denoting significant differences between treatments
+(i.e., letters, asterisks) were added using Adobe Illustrator

@@ -1,0 +1,8 @@
+For Figure 1: 
+
+Panel A requires the 14 individual temperature log files, each starting with "KAUST_LT"
+
+Panel B and C require the .csv files starting with 'PAM'.
+
+Plots were cleaned up and symbols denoting significant differences between treatments
+(i.e., letters, asterisks) were added using Adobe Illustrator
